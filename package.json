@@ -1,0 +1,23 @@
+{
+  "name": "highlightjs-datalog",
+  "version": "0.1.0",
+  "description": "highlight.js syntax definition for Datalog language",
+  "main": "src/languages/datalog.js",
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/johnstonskj/highlightjs-datalog.git"
+  },
+  "keywords": [
+    "datalog",
+    "highlight",
+    "highlightjs",
+    "highlight.js",
+    "syntax"
+  ],
+  "author": "Simon Johnston <johnstonskj@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnstonskj/highlightjs-datalog/issues"
+  },
+  "homepage": "https://github.com/johnstonskj/highlightjs-datalog/blob/main/README.md"
+}

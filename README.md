@@ -1,2 +1,3 @@
 # highlightjs-datalog
-Highlight.js language definition for Datalog
+
+[Highlight.js](https://highlightjs.org/) language definition for Datalog.
